@@ -1,5 +1,6 @@
 .DS_Store
 */.DS_Store
-SwiftToObjC/SwiftToObjC.xcodeproj/project.xcworkspace/xcshareddata/
-SwiftToObjC/SwiftToObjC.xcodeproj/project.xcworkspace/xcuserdata/
+SwiftToObjC/SwiftToObjC.xcodeproj/project.xcworkspace/xcshareddata/*
+SwiftToObjC/SwiftToObjC.xcodeproj/project.xcworkspace/xcuserdata/*
+SwiftToObjC/SwiftToObjC.xcodeproj/xcuserdata/*
 */xcuserdata/
